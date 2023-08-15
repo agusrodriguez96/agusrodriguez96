@@ -1,4 +1,4 @@
-### Bienvenido! Soy Agustina 👋 👩‍💻
+### Hola! Soy Agustina 👋🏼👩🏻‍💻
 
 
 
@@ -26,7 +26,7 @@
 -PostreSQL 
 -Git
 
-### Para contactarme:
+### Para contactarme 📥
 
 - agustinarodriguez088@gmail.com
 - https://www.linkedin.com/in/agustinarodriguez96/
