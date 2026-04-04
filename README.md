@@ -1,4 +1,4 @@
-### Hola! Soy Agustina 👋🏼👩🏻‍💻
+### Hola! Soy Agustina 
 
 
 
