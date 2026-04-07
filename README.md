@@ -1,4 +1,4 @@
-### Hola! Soy Agustina 
+### Hola! Soy Agustina. Bienvenidos a mi perdil de Github. 
 
 
 
@@ -11,9 +11,7 @@
 
 ### Sobre mí 
 
-💻 Desarrolladora Full Stack: Mi experiencia abarca tanto el backend como el frontend, lo que me permite comprender la arquitectura completa de una aplicación y garantizar su fluidez y eficiencia.
-🎨 Amante del Diseño: Creo en la belleza y la usabilidad como componentes esenciales de cualquier proyecto digital. Mi pasión por el diseño me impulsa a crear interfaces atractivas y amigables.
-🌟 Apasionada Frontend: Mi verdadera pasión radica en la creación de experiencias de usuario excepcionales en el frontend. Me encanta dar vida a las ideas y convertirlas en interfaces dinámicas y atractivas.
+💻 Tengo 29 años y actualmente estoy cursando la carrera Tecnicatura en Programación en la Universidad Tecnológica Nacional. Anteriormente me forme como fullstack developer en la academia Soy Henry en la cual aprendi muchas habilidades técnicas pero también descubrí y exploté al máximo mis habilidades blandas. Soy amante de la tecnología y el aprendizaje constante, la curiosidad es algo que me caracteriza principalmente.
 🛠️ Las tecnologías que uso actualmente: 
 -Javascript 
 -React 
