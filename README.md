@@ -1,12 +1,4 @@
-### Hola! Soy Agustina. Bienvenidos a mi perdil de Github. 
-
-
-
-
-![img-github](https://github.com/agusrodriguez96/agusrodriguez96/assets/119638152/b2d24543-a5ee-4430-a6c1-c662dbdb95f5)
-
-
-
+### Hola! Soy Agustina. Bienvenidos a mi perfil de Github.
 
 
 ### Sobre mí 
